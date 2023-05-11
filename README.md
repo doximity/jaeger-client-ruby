@@ -1,7 +1,7 @@
 Jaeger::Client
 ================
-[![Gem Version](https://badge.fury.io/rb/jaeger-client.svg)](https://rubygems.org/gems/jaeger-client)
-[![Build Status](https://github.com/salemove/jaeger-client-ruby/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/salemove/jaeger-client-ruby/actions/workflows/ci.yml?query=branch%3Amaster)
+This gem is a basic fork of https://github.com/salemove/jaeger-client-ruby with the ruby version
+relaxed in the gemspec.  We are using it to hold us over as we upgrade to open telemetry.
 
 **This project is not actively maintained. Please consider using [OpenTelemetry](https://opentelemetry.io/)**
 
